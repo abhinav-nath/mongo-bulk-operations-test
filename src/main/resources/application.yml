@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://root:password@localhost:27017
+      port: 27017
+      database: mongo-test-db
+      auto-index-creation: true
