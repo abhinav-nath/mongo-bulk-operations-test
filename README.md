@@ -1,6 +1,6 @@
 # mongo-bulk-operations-test
 
-Compare the performance of single updates and bulk update operation.
+Compare the performance of single updates and bulk update operations.
 
 **Insert dummy records**
 
@@ -25,3 +25,8 @@ curl -X PUT http://localhost:8080/books/bulk
 ```
 curl -X PUT http://localhost:8080/books/single
 ```
+
+---
+<p align="center">
+  ⭐ Star this repository — it helps!
+</p>
